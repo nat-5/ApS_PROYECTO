@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+   font-family: Quicksand
+
+   
+}
+
+body{
+    background-color: black;
+    font-size: 55px;
+    Font-family: Quicksand
+Font style: Bold
+Font size: 300px
+Line height: 125px
+Line height: 300%
+Align: Center
+Vertical align: Top
+}
+
+.fc-titulo{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: white;
+    font-size: 1.6em;
+    
+}
+
+
+
+
+.btn-Desliza para iniciar{
+    display: flex;
+    flex-direction: row;
+    width: 8em;
+    height: 3em;
+    margin-top: 1em;
+    border: 0;
+    border-radius: 0.2em;
+    background-color: #9C8DAC;
+    outline: 0;
+    text-align: center;
+    font-size: 1.5em;
+    color:  #FFFFFF;
+    cursor: pointer;
+}
+.Desliza para iniciar{
+    float: left;
+    width: 6em;
+    height: 3.75em;
+    border: 0;
+    border-radius: 0.3em;
+    background-color: #9C8DAC;
+    margin-left: 0.5em;
+    text-align: center;
+    font-size: 0.8em;
+    color:  #FFFFFF;
+    cursor: pointer;
+}
